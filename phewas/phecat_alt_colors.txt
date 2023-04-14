@@ -1,0 +1,18 @@
+color	group
+#D55E00	circulatory system
+#00FF7F	congenital anomalies
+#E69F00	dermatologic
+#009E73	digestive
+#F4A460	endocrine/metabolic
+#27221f	genitourinary
+#FFA07A	hematopoietic
+#1E90FF	infectious diseases
+#999999	injuries & poisonings
+#BA55D3	mental disorders
+#87CEFA	musculoskeletal
+#0072B2	neoplasms
+#56B4E9	neurological
+#F0E442	pregnancy complications
+#F5DEB3	respiratory
+#CC79A7	sense organs
+#A9A9A9	symptoms
