@@ -42,7 +42,7 @@ CA_103.1,Melanomas of skin,1
 CA_103.2,Keratinocyte carcinoma,1
 CA_103.21,Basal cell carcinoma,1
 CA_103.22,Squamous cell carcinoma of the skin,1
-CA_103.3,Carcinoma in situ of skin,1
+CA_103.3,Carcinoma in situ of skin,0
 CA_104,Malignant sarcoma-related cancers,1
 CA_104.1,Malignant neoplam of the bone and/or cartilage,1
 CA_104.2,Malignant neoplasm of retroperitoneum and peritoneum,1
@@ -96,11 +96,11 @@ CA_110.4,Malignant neoplasm of the pituitary gland and craniopharyngeal duct,1
 CA_110.5,Malignant neoplasm of the pineal gland,1
 CA_112,Malignant neoplasm of other and ill-defined sites,1
 CA_112.1,Mesothelioma*,1
-CA_114,Neuroendocrine tumors,1
+CA_114,Neuroendocrine tumors,0
 CA_114.1,Malignant neuroendocrine tumors,1
 CA_114.11,Exocrine pancreatic cancer,1
 CA_114.12,Merkel cell carcinoma,1
-CA_114.2,Benign neuroendocrine tumors,1
+CA_114.2,Benign neuroendocrine tumors,0
 CA_114.4,Carcinoid tumors,1
 CA_114.41,Intestinal carcinoid,1
 CA_114.42,Carcinoid tumor of the bronchus and lung,1
