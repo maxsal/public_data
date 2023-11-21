@@ -1,244 +1,244 @@
-﻿phecode,description,keep
-CA_100,Malignant neoplasm of the head and neck,1
-CA_100.1,Malignant neoplasm of the oral cavity,1
-CA_100.12,Malignant neoplasm of the tongue,1
-CA_100.13,Malignant neoplasm of the gums,1
-CA_100.14,Malignant neoplasm of the floor of mouth,1
-CA_100.15,Malignant neoplasm of the palate,1
-CA_100.2,Malignant neoplasm of the oropharynx,1
-CA_100.3,Malignant neoplasm of the nasopharynx,1
-CA_100.4,Malignant neoplasm of the hypopharynx,1
-CA_100.5,"Malignant neoplasm of nasal cavities, middle ear, and accessory sinuses",1
-CA_100.6,Malignant neoplasm of the larynx,1
-CA_100.7,Malignant neoplasm of the pharynx,1
-CA_100.8,Malignant neoplasm of the lip,1
-CA_100.9,Malignant neoplasm of the salivary glands,1
-CA_101,Malignant neoplasm of the digestive organs,1
-CA_101.1,Malignant neoplasm of the esophagus,1
-CA_101.2,Malignant neoplasm of stomach,1
-CA_101.21,Malignant neoplasm of cardia,1
-CA_101.3,Malignant neoplasm of the small intestine,1
-CA_101.4,Malignant neoplasm of the lower GI tract,1
-CA_101.41,Colorectal cancer,1
-CA_101.411,Malignant neoplasm of colon,1
-CA_101.412,Malignant neoplasm of appendix,1
-CA_101.42,Malignant neoplasm of anus,1
-CA_101.6,Malignant neoplasm of the liver and intrahepatic bile ducts,1
-CA_101.61,Malignant neoplasm of the liver,1
-CA_101.62,Malignant neoplasm of the intrahepatic bile ducts,1
-CA_101.7,Malignant neoplasm of the gallbladder and extrahepatic bile ducts,1
-CA_101.71,Malignant neoplasm of the gallbladder,1
-CA_101.8,Malignant neoplasm of the pancreas,1
-CA_102,Malignant neoplasm of the thoracic and respiratory organs,1
-CA_102.1,Malignant neoplasm of the of bronchus and lung,1
-CA_102.3,Malignant neoplasm of the trachea,1
-CA_102.5,"Malignant neoplasm of the heart, mediastinum, thymus, and pleura",1
-CA_102.51,Malignant neoplasm of the heart,1
-CA_102.52,Malignant neoplasm of the mediastinum,1
-CA_102.53,Malignant neoplasm of the of pleura,1
-CA_102.54,Malignant neoplasm of the thymus,1
-CA_103,Malignant neoplasm of the skin,1
-CA_103.1,Melanomas of skin,1
-CA_103.2,Keratinocyte carcinoma,1
-CA_103.21,Basal cell carcinoma,1
-CA_103.22,Squamous cell carcinoma of the skin,1
-CA_103.3,Carcinoma in situ of skin,0
-CA_104,Malignant sarcoma-related cancers,1
-CA_104.1,Malignant neoplam of the bone and/or cartilage,1
-CA_104.2,Malignant neoplasm of retroperitoneum and peritoneum,1
-CA_104.3,Malignant neoplasm of connective and soft tissue,1
-CA_104.4,Malignant neoplasm of peripheral nerves*,1
-CA_104.5,Gastrointestinal stromal tumor*,1
-CA_104.6,Kaposi's sarcoma,1
-CA_105,Malignant neoplasm of the breast,1
-CA_105.1,"Malignant neoplasm of the breast, female",1
-CA_105.2,"Malignant neoplasm of the breast, male",1
-CA_106,Gynecological malignant neoplasms,1
-CA_106.1,Malignant neoplasm of external female genital organs and cervix,1
-CA_106.11,Malignant neoplasm of the vulva,1
-CA_106.12,Malignant neoplasm of the vagina,1
-CA_106.13,Malignant neoplasm of the cervix,1
-CA_106.2,Malignant neoplasm of the uterus,1
-CA_106.21,Malignant neoplasm of endometrium,1
-CA_106.3,Malignant neoplasm of the ovary,1
-CA_106.4,Malignant neoplasm of the fallopian tube and uterine adnexa,1
-CA_106.6,Malignant neoplasm of the placenta,1
-CA_107,Malignant neoplasm of male genitalia,1
-CA_107.1,Malignant neoplasm of the penis,1
-CA_107.2,Malignant neoplasm of the prostate,1
-CA_107.3,Malignant neoplasm of the testis,1
-CA_107.4,Malignant neoplasm of epididymis,1
-CA_107.5,Malignant neoplasm of spermatic cord,1
-CA_107.6,Malignant neoplasm of the scrotum,1
-CA_108,Malignant neoplasm of the urinary tract,1
-CA_108.4,Malignant neoplasm of the kidney,1
-CA_108.41,"Malignant neoplasm of kidney, except pelvis",1
-CA_108.42,Malignant neoplasm of renal pelvis,1
-CA_108.5,Malignant neoplasm of the bladder,1
-CA_108.6,Malignant neoplasm of urethra,1
-CA_108.7,Malignant neoplasm of ureter,1
-CA_109,"Malignant neoplasm of the eye, brain and other parts of central nervous system",1
-CA_109.1,Malignant neoplasm of eye,1
-CA_109.11,Malignant neoplasm of orbit,1
-CA_109.12,Malignant neoplasm of lacrimal gland and duct,1
-CA_109.13,Malignant neoplasm of conjunctiva,1
-CA_109.14,Malignant neoplasm of cornea,1
-CA_109.15,Malignant neoplasm of retina,1
-CA_109.16,Malignant neoplasm of choroid,1
-CA_109.2,Malignant neoplasm of meninges,1
-CA_109.3,Malignant neoplasm of brain,1
-CA_109.4,Malignant neoplasm of spinal cord,1
-CA_109.5,Malignant neoplasm of cranial nerve,1
-CA_110,Malignant neoplasm of the endocrine glands,1
-CA_110.1,Malignant neoplasm of the thyroid,1
-CA_110.3,Malignant neoplasm of the parathyroid gland,1
-CA_110.4,Malignant neoplasm of the pituitary gland and craniopharyngeal duct,1
-CA_110.5,Malignant neoplasm of the pineal gland,1
-CA_112,Malignant neoplasm of other and ill-defined sites,1
-CA_112.1,Mesothelioma*,1
-CA_114,Neuroendocrine tumors,0
-CA_114.1,Malignant neuroendocrine tumors,1
-CA_114.11,Exocrine pancreatic cancer,1
-CA_114.12,Merkel cell carcinoma,1
-CA_114.2,Benign neuroendocrine tumors,0
-CA_114.4,Carcinoid tumors,1
-CA_114.41,Intestinal carcinoid,1
-CA_114.42,Carcinoid tumor of the bronchus and lung,1
-CA_114.43,Carcinoid tumor of the thymus,1
-CA_114.44,Carcinoid tumor of the stomach,1
-CA_114.45,Carcinoid tumor of the kidney,1
-CA_114.5,Paraganglioma,1
-CA_114.6,Pheochromocytoma,1
-CA_116,Secondary malignant neoplasm,1
-CA_120,Hemo onc - by cell of origin,1
-CA_120.1,Myeloid,1
-CA_120.11,Plasma cell,1
-CA_120.12,Monocyte,1
-CA_120.13,Erythroid,1
-CA_120.14,Megakaryoblast,1
-CA_120.15,Mast cell,1
-CA_120.2,Lymphoid,1
-CA_120.21,Mature B-cell,1
-CA_120.22,Mature T-Cell,1
-CA_120.3,Histocytoces,1
-CA_121,Leukemia,1
-CA_121.1,Acute leukemia,1
-CA_121.11,Acute lymphoid leukemia,1
-CA_121.12,Acute myeloid leukemia,1
-CA_121.2,Chronic leukemia,1
-CA_121.21,Chronic lymphoid leukemia,1
-CA_121.22,Chronic myloid leukemia,1
-CA_121.23,Chronic myelomonocytic (monocytic) leukemia,1
-CA_122,Lymphoma,1
-CA_122.1,Hodgkin lymphoma,1
-CA_122.11,Nodular sclerosis Hodgkin lymphoma,1
-CA_122.2,Non-Hodgkin lymphoma,1
-CA_122.21,Follicular lymphoma,1
-CA_122.22,Diffuse large B-cell lymphoma*,1
-CA_122.23,Burkitt lymphoma,1
-CA_122.24,T-cell lymphoma,1
-CA_122.25,Anaplastic large cell lymphoma,1
-CA_122.26,"Extranodal NK/T-cell lymphoma, nasal type*",1
-CA_123,Multiple myeloma and malignant plasma cell neoplasms,1
-CA_123.1,Multiple myeloma,1
-CA_124,Myeloproliferative disorder,1
-CA_124.3,Polycythemia vera,1
-CA_124.5,Essential thrombocythemia,1
-CA_124.6,Myelodysplastic syndrome,1
-CA_124.7,Chronic myeloproliferative disease*,1
-CA_124.8,Myelofibrosis,1
-CA_125,"Other malignant neoplasms of lymphoid, hematopoietic and related tissue",1
-CA_125.1,Cutaneous mastocytosis*,0
-CA_128,Estrogen receptor status,1
-CA_128.1,Estrogen receptor postitive status [ER+],1
-CA_128.2,Estrogen receptor negative status [ER-],1
-CA_130,"Cancer (solid tumor, excluding BCC)",1
-CA_132,Sequelae of cancer,1
-CA_135,Benign neoplasm of the head and neck,0
-CA_135.1,Benign neoplasm of the oral cavity,0
-CA_135.11,Benign neoplasm of the lip,0
-CA_135.12,Benign neoplasm of the tongue,0
-CA_135.14,Benign neoplasm of the floor of mouth,0
-CA_135.16,Benign neoplasm of the salivary glands,0
-CA_135.2,Benign neoplasm of the oropharynx,0
-CA_135.3,Benign neoplasm of the nasopharynx,0
-CA_135.4,Benign neoplasm of the hypopharynx,0
-CA_135.5,Benign neoplasm of the paranasal sinus and nasal cavity,0
-CA_135.6,Benign neoplasm of vocal cord or larynx,0
-CA_136,Benign neoplasm of the digestive organs,0
-CA_136.1,Benign neoplasm of the esophagus,0
-CA_136.2,Benign neoplasm of stomach,0
-CA_136.3,Benign neoplasm of the small intestine,0
-CA_136.4,"Benign neoplasm of colon, rectum, anus and anal canal",0
-CA_136.41,Benign neoplasm of the colon,0
-CA_136.42,Benign neoplasm of rectum and anus,0
-CA_136.6,Benign neoplasm of the liver and intrahepatic bile ducts,0
-CA_136.61,Benign neoplasm of the liver*,0
-CA_136.8,Benign neoplasm of the pancreas,0
-CA_137,Benign neoplasm of the thoracic and respiratory organs,0
-CA_137.1,Benign neoplasm of the of bronchus and lung,0
-CA_137.3,Benign neoplasm of the trachea,0
-CA_137.5,"Benign neoplasm of the heart, mediastinum, thymus, and pleura",0
-CA_137.51,Benign neoplasm of the heart,0
-CA_137.52,Benign neoplasm of the mediastinum,0
-CA_137.53,Benign neoplasm of the of pleura,0
-CA_137.54,Benign neoplasm of the thymus,0
-CA_138,Benign neoplasm of the skin,0
-CA_138.1,"Nevus, non-neoplastic",0
-CA_138.2,Melanocytic nevi*,0
-CA_139,Benign sarcoma-related cancers,0
-CA_139.1,Benign neoplams of the bone and/or cartilage,0
-CA_139.2,Benign neoplasm of retroperitoneum and peritoneum,0
-CA_139.3,Benign neoplasm of other connective and soft tissue,0
-CA_139.4,Benign neoplasm of peripheral nerves*,0
-CA_139.5,Lipoma,0
-CA_139.51,Lipomatosis*,0
-CA_139.52,Lipoma of intrathoracic organs,0
-CA_139.53,Lipoma of skin subcutaneous tissue,0
-CA_139.54,Testicular limpoma,0
-CA_139.6,Hemangioma and lymphangioma,0
-CA_139.61,Hemangioma,0
-CA_139.62,Lymphangioma,0
-CA_140,Benign neoplasm of the breast,0
-CA_142,Lump or mass in breast or nonspecific abnormal breast exam,0
-CA_142.1,Lump or mass in breast,0
-CA_142.2,Abnormal mammogram,0
-CA_142.21,Mammographic microcalcification,0
-CA_144,Gynecological benign neoplasms,0
-CA_144.1,Benign neoplasms of external female genital organs and cervix,0
-CA_144.11,Benign neoplasms of the vulva,0
-CA_144.12,Benign neoplasms of the vagina,0
-CA_144.13,Benign neoplasms of the cervix,0
-CA_144.2,Benign neoplasms of the uterus,0
-CA_144.21,Leiomyoma of uterus,0
-CA_144.3,Benign neoplasms of the ovary,0
-CA_144.4,Benign neoplasm of the fallopian tube and uterine adnexa,0
-CA_146,Benign neoplasm of male genital organs,0
-CA_146.1,Benign neoplasm of the penis,0
-CA_146.2,Benign neoplasm of the prostate,0
-CA_146.3,Benign neoplasm of the testis,0
-CA_146.31,Benign neoplasm of epididymis and spermatic cord,0
-CA_146.32,Benign neoplasm of the scrotum,0
-CA_147,Benign neoplasm of kidney and urinary organs,0
-CA_147.1,Benign neoplasm of the kidney,0
-CA_147.2,Benign neoplasm of ureter,0
-CA_147.3,Benign neoplasm of bladder,0
-CA_147.4,Benign neoplasm of urethra,0
-CA_148,"Benign neoplasm of the eye, brain and other parts of central nervous system",0
-CA_148.1,Benign neoplasm of eye,0
-CA_148.11,Benign neoplasm of orbit,0
-CA_148.12,Benign neoplasm of lacrimal gland and duct,0
-CA_148.13,Benign neoplasm of conjunctiva,0
-CA_148.14,Benign neoplasm of cornea,0
-CA_148.15,Benign neoplasm of retina,0
-CA_148.16,Benign neoplasm of choroid,0
-CA_148.2,Benign neoplasm of meninges (Meningioma),0
-CA_148.3,Benign neoplasm of brain,0
-CA_148.4,Benign neoplasm of spinal cord,0
-CA_148.5,Benign neoplasm of cranial nerve,0
-CA_149,Benign neoplasm of the endocrine glands,0
-CA_149.1,Benign neoplasm of the thyroid,0
-CA_149.3,Benign neoplasm of the parathyroid gland,0
-CA_149.4,Benign neoplasm of the pituitary gland and craniopharyngeal duct,0
-CA_149.5,Benign neoplasm of pineal gland,0
-CA_152,Benign neoplasm of lymph nodes,0
+﻿phecode,description,keep,specific
+CA_100,Malignant neoplasm of the head and neck,1,1
+CA_100.1,Malignant neoplasm of the oral cavity,1,1
+CA_100.12,Malignant neoplasm of the tongue,1,1
+CA_100.13,Malignant neoplasm of the gums,1,1
+CA_100.14,Malignant neoplasm of the floor of mouth,1,1
+CA_100.15,Malignant neoplasm of the palate,1,1
+CA_100.2,Malignant neoplasm of the oropharynx,1,1
+CA_100.3,Malignant neoplasm of the nasopharynx,1,1
+CA_100.4,Malignant neoplasm of the hypopharynx,1,1
+CA_100.5,"Malignant neoplasm of nasal cavities, middle ear, and accessory sinuses",1,1
+CA_100.6,Malignant neoplasm of the larynx,1,1
+CA_100.7,Malignant neoplasm of the pharynx,1,1
+CA_100.8,Malignant neoplasm of the lip,1,1
+CA_100.9,Malignant neoplasm of the salivary glands,1,1
+CA_101,Malignant neoplasm of the digestive organs,1,1
+CA_101.1,Malignant neoplasm of the esophagus,1,1
+CA_101.2,Malignant neoplasm of stomach,1,1
+CA_101.21,Malignant neoplasm of cardia,1,1
+CA_101.3,Malignant neoplasm of the small intestine,1,1
+CA_101.4,Malignant neoplasm of the lower GI tract,1,1
+CA_101.41,Colorectal cancer,1,1
+CA_101.411,Malignant neoplasm of colon,1,1
+CA_101.412,Malignant neoplasm of appendix,1,1
+CA_101.42,Malignant neoplasm of anus,1,1
+CA_101.6,Malignant neoplasm of the liver and intrahepatic bile ducts,1,1
+CA_101.61,Malignant neoplasm of the liver,1,1
+CA_101.62,Malignant neoplasm of the intrahepatic bile ducts,1,1
+CA_101.7,Malignant neoplasm of the gallbladder and extrahepatic bile ducts,1,1
+CA_101.71,Malignant neoplasm of the gallbladder,1,1
+CA_101.8,Malignant neoplasm of the pancreas,1,1
+CA_102,Malignant neoplasm of the thoracic and respiratory organs,1,1
+CA_102.1,Malignant neoplasm of the of bronchus and lung,1,1
+CA_102.3,Malignant neoplasm of the trachea,1,1
+CA_102.5,"Malignant neoplasm of the heart, mediastinum, thymus, and pleura",1,1
+CA_102.51,Malignant neoplasm of the heart,1,1
+CA_102.52,Malignant neoplasm of the mediastinum,1,1
+CA_102.53,Malignant neoplasm of the of pleura,1,1
+CA_102.54,Malignant neoplasm of the thymus,1,1
+CA_103,Malignant neoplasm of the skin,1,0
+CA_103.1,Melanomas of skin,1,1
+CA_103.2,Keratinocyte carcinoma,1,0
+CA_103.21,Basal cell carcinoma,1,0
+CA_103.22,Squamous cell carcinoma of the skin,1,0
+CA_103.3,Carcinoma in situ of skin,0,0
+CA_104,Malignant sarcoma-related cancers,1,1
+CA_104.1,Malignant neoplam of the bone and/or cartilage,1,1
+CA_104.2,Malignant neoplasm of retroperitoneum and peritoneum,1,1
+CA_104.3,Malignant neoplasm of connective and soft tissue,1,1
+CA_104.4,Malignant neoplasm of peripheral nerves*,1,1
+CA_104.5,Gastrointestinal stromal tumor*,1,1
+CA_104.6,Kaposi's sarcoma,1,1
+CA_105,Malignant neoplasm of the breast,1,1
+CA_105.1,"Malignant neoplasm of the breast, female",1,1
+CA_105.2,"Malignant neoplasm of the breast, male",1,1
+CA_106,Gynecological malignant neoplasms,1,1
+CA_106.1,Malignant neoplasm of external female genital organs and cervix,1,1
+CA_106.11,Malignant neoplasm of the vulva,1,1
+CA_106.12,Malignant neoplasm of the vagina,1,1
+CA_106.13,Malignant neoplasm of the cervix,1,1
+CA_106.2,Malignant neoplasm of the uterus,1,1
+CA_106.21,Malignant neoplasm of endometrium,1,1
+CA_106.3,Malignant neoplasm of the ovary,1,1
+CA_106.4,Malignant neoplasm of the fallopian tube and uterine adnexa,1,1
+CA_106.6,Malignant neoplasm of the placenta,1,1
+CA_107,Malignant neoplasm of male genitalia,1,1
+CA_107.1,Malignant neoplasm of the penis,1,1
+CA_107.2,Malignant neoplasm of the prostate,1,1
+CA_107.3,Malignant neoplasm of the testis,1,1
+CA_107.4,Malignant neoplasm of epididymis,1,1
+CA_107.5,Malignant neoplasm of spermatic cord,1,1
+CA_107.6,Malignant neoplasm of the scrotum,1,1
+CA_108,Malignant neoplasm of the urinary tract,1,1
+CA_108.4,Malignant neoplasm of the kidney,1,1
+CA_108.41,"Malignant neoplasm of kidney, except pelvis",1,1
+CA_108.42,Malignant neoplasm of renal pelvis,1,1
+CA_108.5,Malignant neoplasm of the bladder,1,1
+CA_108.6,Malignant neoplasm of urethra,1,1
+CA_108.7,Malignant neoplasm of ureter,1,1
+CA_109,"Malignant neoplasm of the eye, brain and other parts of central nervous system",1,1
+CA_109.1,Malignant neoplasm of eye,1,1
+CA_109.11,Malignant neoplasm of orbit,1,1
+CA_109.12,Malignant neoplasm of lacrimal gland and duct,1,1
+CA_109.13,Malignant neoplasm of conjunctiva,1,1
+CA_109.14,Malignant neoplasm of cornea,1,1
+CA_109.15,Malignant neoplasm of retina,1,1
+CA_109.16,Malignant neoplasm of choroid,1,1
+CA_109.2,Malignant neoplasm of meninges,1,1
+CA_109.3,Malignant neoplasm of brain,1,1
+CA_109.4,Malignant neoplasm of spinal cord,1,1
+CA_109.5,Malignant neoplasm of cranial nerve,1,1
+CA_110,Malignant neoplasm of the endocrine glands,1,1
+CA_110.1,Malignant neoplasm of the thyroid,1,1
+CA_110.3,Malignant neoplasm of the parathyroid gland,1,1
+CA_110.4,Malignant neoplasm of the pituitary gland and craniopharyngeal duct,1,1
+CA_110.5,Malignant neoplasm of the pineal gland,1,1
+CA_112,Malignant neoplasm of other and ill-defined sites,1,1
+CA_112.1,Mesothelioma*,1,1
+CA_114,Neuroendocrine tumors,0,0
+CA_114.1,Malignant neuroendocrine tumors,1,1
+CA_114.11,Exocrine pancreatic cancer,1,1
+CA_114.12,Merkel cell carcinoma,1,1
+CA_114.2,Benign neuroendocrine tumors,0,0
+CA_114.4,Carcinoid tumors,1,1
+CA_114.41,Intestinal carcinoid,1,1
+CA_114.42,Carcinoid tumor of the bronchus and lung,1,1
+CA_114.43,Carcinoid tumor of the thymus,1,1
+CA_114.44,Carcinoid tumor of the stomach,1,1
+CA_114.45,Carcinoid tumor of the kidney,1,1
+CA_114.5,Paraganglioma,1,1
+CA_114.6,Pheochromocytoma,1,1
+CA_116,Secondary malignant neoplasm,1,0
+CA_120,Hemo onc - by cell of origin,1,1
+CA_120.1,Myeloid,1,1
+CA_120.11,Plasma cell,1,1
+CA_120.12,Monocyte,1,1
+CA_120.13,Erythroid,1,1
+CA_120.14,Megakaryoblast,1,1
+CA_120.15,Mast cell,1,1
+CA_120.2,Lymphoid,1,1
+CA_120.21,Mature B-cell,1,1
+CA_120.22,Mature T-Cell,1,1
+CA_120.3,Histocytoces,1,1
+CA_121,Leukemia,1,1
+CA_121.1,Acute leukemia,1,1
+CA_121.11,Acute lymphoid leukemia,1,1
+CA_121.12,Acute myeloid leukemia,1,1
+CA_121.2,Chronic leukemia,1,1
+CA_121.21,Chronic lymphoid leukemia,1,1
+CA_121.22,Chronic myloid leukemia,1,1
+CA_121.23,Chronic myelomonocytic (monocytic) leukemia,1,1
+CA_122,Lymphoma,1,1
+CA_122.1,Hodgkin lymphoma,1,1
+CA_122.11,Nodular sclerosis Hodgkin lymphoma,1,1
+CA_122.2,Non-Hodgkin lymphoma,1,1
+CA_122.21,Follicular lymphoma,1,1
+CA_122.22,Diffuse large B-cell lymphoma*,1,1
+CA_122.23,Burkitt lymphoma,1,1
+CA_122.24,T-cell lymphoma,1,1
+CA_122.25,Anaplastic large cell lymphoma,1,1
+CA_122.26,"Extranodal NK/T-cell lymphoma, nasal type*",1,1
+CA_123,Multiple myeloma and malignant plasma cell neoplasms,1,1
+CA_123.1,Multiple myeloma,1,1
+CA_124,Myeloproliferative disorder,1,1
+CA_124.3,Polycythemia vera,1,1
+CA_124.5,Essential thrombocythemia,1,1
+CA_124.6,Myelodysplastic syndrome,1,1
+CA_124.7,Chronic myeloproliferative disease*,1,1
+CA_124.8,Myelofibrosis,1,1
+CA_125,"Other malignant neoplasms of lymphoid, hematopoietic and related tissue",1,1
+CA_125.1,Cutaneous mastocytosis*,0,1
+CA_128,Estrogen receptor status,1,1
+CA_128.1,Estrogen receptor postitive status [ER+],1,1
+CA_128.2,Estrogen receptor negative status [ER-],1,1
+CA_130,"Cancer (solid tumor, excluding BCC)",1,0
+CA_132,Sequelae of cancer,1,0
+CA_135,Benign neoplasm of the head and neck,0,1
+CA_135.1,Benign neoplasm of the oral cavity,0,1
+CA_135.11,Benign neoplasm of the lip,0,1
+CA_135.12,Benign neoplasm of the tongue,0,1
+CA_135.14,Benign neoplasm of the floor of mouth,0,1
+CA_135.16,Benign neoplasm of the salivary glands,0,1
+CA_135.2,Benign neoplasm of the oropharynx,0,1
+CA_135.3,Benign neoplasm of the nasopharynx,0,1
+CA_135.4,Benign neoplasm of the hypopharynx,0,1
+CA_135.5,Benign neoplasm of the paranasal sinus and nasal cavity,0,1
+CA_135.6,Benign neoplasm of vocal cord or larynx,0,1
+CA_136,Benign neoplasm of the digestive organs,0,1
+CA_136.1,Benign neoplasm of the esophagus,0,1
+CA_136.2,Benign neoplasm of stomach,0,1
+CA_136.3,Benign neoplasm of the small intestine,0,1
+CA_136.4,"Benign neoplasm of colon, rectum, anus and anal canal",0,1
+CA_136.41,Benign neoplasm of the colon,0,1
+CA_136.42,Benign neoplasm of rectum and anus,0,1
+CA_136.6,Benign neoplasm of the liver and intrahepatic bile ducts,0,1
+CA_136.61,Benign neoplasm of the liver*,0,1
+CA_136.8,Benign neoplasm of the pancreas,0,1
+CA_137,Benign neoplasm of the thoracic and respiratory organs,0,1
+CA_137.1,Benign neoplasm of the of bronchus and lung,0,1
+CA_137.3,Benign neoplasm of the trachea,0,1
+CA_137.5,"Benign neoplasm of the heart, mediastinum, thymus, and pleura",0,1
+CA_137.51,Benign neoplasm of the heart,0,1
+CA_137.52,Benign neoplasm of the mediastinum,0,1
+CA_137.53,Benign neoplasm of the of pleura,0,1
+CA_137.54,Benign neoplasm of the thymus,0,1
+CA_138,Benign neoplasm of the skin,0,1
+CA_138.1,"Nevus, non-neoplastic",0,1
+CA_138.2,Melanocytic nevi*,0,1
+CA_139,Benign sarcoma-related cancers,0,1
+CA_139.1,Benign neoplams of the bone and/or cartilage,0,1
+CA_139.2,Benign neoplasm of retroperitoneum and peritoneum,0,1
+CA_139.3,Benign neoplasm of other connective and soft tissue,0,1
+CA_139.4,Benign neoplasm of peripheral nerves*,0,1
+CA_139.5,Lipoma,0,1
+CA_139.51,Lipomatosis*,0,1
+CA_139.52,Lipoma of intrathoracic organs,0,1
+CA_139.53,Lipoma of skin subcutaneous tissue,0,1
+CA_139.54,Testicular limpoma,0,1
+CA_139.6,Hemangioma and lymphangioma,0,1
+CA_139.61,Hemangioma,0,1
+CA_139.62,Lymphangioma,0,1
+CA_140,Benign neoplasm of the breast,0,1
+CA_142,Lump or mass in breast or nonspecific abnormal breast exam,0,0
+CA_142.1,Lump or mass in breast,0,0
+CA_142.2,Abnormal mammogram,0,0
+CA_142.21,Mammographic microcalcification,0,0
+CA_144,Gynecological benign neoplasms,0,1
+CA_144.1,Benign neoplasms of external female genital organs and cervix,0,1
+CA_144.11,Benign neoplasms of the vulva,0,1
+CA_144.12,Benign neoplasms of the vagina,0,1
+CA_144.13,Benign neoplasms of the cervix,0,1
+CA_144.2,Benign neoplasms of the uterus,0,1
+CA_144.21,Leiomyoma of uterus,0,1
+CA_144.3,Benign neoplasms of the ovary,0,1
+CA_144.4,Benign neoplasm of the fallopian tube and uterine adnexa,0,1
+CA_146,Benign neoplasm of male genital organs,0,1
+CA_146.1,Benign neoplasm of the penis,0,1
+CA_146.2,Benign neoplasm of the prostate,0,1
+CA_146.3,Benign neoplasm of the testis,0,1
+CA_146.31,Benign neoplasm of epididymis and spermatic cord,0,1
+CA_146.32,Benign neoplasm of the scrotum,0,1
+CA_147,Benign neoplasm of kidney and urinary organs,0,1
+CA_147.1,Benign neoplasm of the kidney,0,1
+CA_147.2,Benign neoplasm of ureter,0,1
+CA_147.3,Benign neoplasm of bladder,0,1
+CA_147.4,Benign neoplasm of urethra,0,1
+CA_148,"Benign neoplasm of the eye, brain and other parts of central nervous system",0,1
+CA_148.1,Benign neoplasm of eye,0,1
+CA_148.11,Benign neoplasm of orbit,0,1
+CA_148.12,Benign neoplasm of lacrimal gland and duct,0,1
+CA_148.13,Benign neoplasm of conjunctiva,0,1
+CA_148.14,Benign neoplasm of cornea,0,1
+CA_148.15,Benign neoplasm of retina,0,1
+CA_148.16,Benign neoplasm of choroid,0,1
+CA_148.2,Benign neoplasm of meninges (Meningioma),0,1
+CA_148.3,Benign neoplasm of brain,0,1
+CA_148.4,Benign neoplasm of spinal cord,0,1
+CA_148.5,Benign neoplasm of cranial nerve,0,1
+CA_149,Benign neoplasm of the endocrine glands,0,1
+CA_149.1,Benign neoplasm of the thyroid,0,1
+CA_149.3,Benign neoplasm of the parathyroid gland,0,1
+CA_149.4,Benign neoplasm of the pituitary gland and craniopharyngeal duct,0,1
+CA_149.5,Benign neoplasm of pineal gland,0,1
+CA_152,Benign neoplasm of lymph nodes,0,1
