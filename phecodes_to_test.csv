@@ -1,0 +1,22 @@
+﻿condition,known_sex_bias,approx_ratio,phecode_category,type,phecode,var_name,note
+Bladder cancer,Male,3.5-4:1 M:F,neoplasms,Positive,CA_108.5,bladder_cancer,
+Systemic lupus erythematosus,Female,9:1 F:M,autoimmune,Positive,MS_700.11,lupus,
+Sjögren's syndrome,Female,9:1 F:M,autoimmune,Positive,MS_700.2,sjorgens,
+Hashimoto's / hypothyroidism,Female,5-10:1 F:M,endocrine,Positive,EM_200.1,hypothyroid,
+Graves' / hyperthyroidism,Female,5:1 F:M,endocrine,Positive,EM_200.3,hyperthyroid,
+Rheumatoid arthritis,Female,3:1 F:M,autoimmune,Positive,MS_705.1,arthritis,
+Multiple sclerosis,Female,3:1 F:M,neurologic,Positive,NS_326.1,ms,
+Migraine,Female,3:1 F:M,neurologic,Positive,NS_331.6,migraine,
+Osteoporosis,Female,4:1 F:M,muscoloskeletal,Positive,MS_726.1,osteopor,
+Gout,Male,3-4:1 M:F,metabolic,Positive,MS_703.1,gout,
+Coronary atherosclerosis,Male,2:1 M:F,cardiovascular,Positive,CV_404.2,athero,Before age 60
+Parkinson's disease,Male,1.5:1 M:F,neurologic,Positive,NS_324.11,parkison,
+Autism spectrum disorder,Male,4:1 M:F,psychiatric,Positive,MB_301.1,autism,
+Alcohol use disorder,Male,2:1 M:F,psychiatric,Positive,MB_280.1,alcohol_use_disorder,
+Lung cancer,Male,1.5:1 M:F,neoplasms,Positive,CA_102.1,lung_cancer,Sex gap narrowing as smoking patterns converged
+Colorectal cancer,None,1:1 M:F,neoplasms,Negative,CA_101.41,colorectal_cancer,
+Non-Hodgkin lymphoa,None,1:1 M:F,neoplasms,Negative,CA_122.2,nh_lymphoma,
+Pancreatic cancer,None,1:1 M:F,neoplasms,Negative,CA_101.8,pancreatic_cancer,
+Type 2 diabetes,None,1:1 M:F,endocrine,Negative,EM_202.2,t2d,
+Essential hypertension,None,1:1 M:F,cardiovascular,Negative,CV_401.1,hypertension,
+Chronic kidney disease,None,1:1 M:F,renal,Negative,GU_582.2,chronic_kidney,
